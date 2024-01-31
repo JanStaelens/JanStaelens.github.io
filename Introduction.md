@@ -3,9 +3,10 @@ layout: page
 title: Introduction
 permalink: /introduction/
 ---
-# Tal'Dorei - Exandria, 991 PD
 
 ![Introduction](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/abe3a96c-31b3-47b3-a0aa-e238fe56f81f)
+
+---
 
 Dear Adventurers,
 

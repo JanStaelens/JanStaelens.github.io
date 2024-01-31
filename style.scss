@@ -1,0 +1,97 @@
+---
+---
+@import 'reset.scss';
+@import 'phb.fonts.scss';
+@import 'phb.assets.scss';
+@import 'phb.depricated.scss';
+@import 'phb.style.scss';
+
+
+.phb {
+    overflow: scroll !important;
+    height: auto !important;
+    width: auto !important;
+    font-size: 1em !important;
+    padding: 1em 3em;
+    min-height: 100vh;
+    h1 {
+        font-size: 300%;
+    }
+
+    h2 {
+        font-size: 175%;
+    }
+    p + h2,
+    ul + h2,
+    ol + h2 {
+        margin-top: 1em;
+    }
+
+    h3 {
+        font-size: 150%;
+    }
+
+    h4,h5 {
+        font-size: 125%;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+// #banner {
+//     background-color: #c9ad6a; /* Light grey background */
+//     padding: 10px; /* Padding around the content */
+//     text-align: center; /* Center the title and navigation */
+// }
+
+#banner {
+    background-image: url('/assets/images/bannerImage.png'); /* Update with your image path */
+    background-size: cover; /* Cover the entire banner area */
+    background-position: center; /* Center the image in the banner */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    color: white; /* Adjust text color for better visibility */
+    padding: 20px 0; /* Add some padding */
+}
+
+
+#banner h1 {
+    text-align: center;
+    color: white; /* Change color for better visibility */
+    font-size: 2.5em; /* Adjust the size as needed */
+}
+
+#banner nav {
+    text-align: center;
+}
+
+#banner nav a {
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black; adjust color and opacity as needed */
+    border-radius: 10px; /* rounded corners */
+    padding: 5px 10px; /* add padding around the text */
+    margin: 5px; /* add some space between links */
+    display: inline-block; /* to apply padding and margin correctly */
+    color: white; /* text color, adjust as needed */
+    text-decoration: none; /* optional: removes underline from links */
+    background-image: url('/assets/images/bookmark-icon.png'); /* update the path */
+    background-repeat: no-repeat;
+    background-size: 20px 20px; /* adjust as needed */
+    background-position: 5px center; /* adjust horizontal positioning as needed */
+    padding-left: 30px; /* adjust so text doesn't overlay the image */
+
+}
+
+#banner nav a:hover {
+    background-color: rgba(0, 0, 0, 0.7); /* slightly darker on hover */
+}
+
+
+#banner nav a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
