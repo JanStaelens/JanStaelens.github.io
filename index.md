@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Welcome
-permalink: /welcome/
+title: Introduction
+permalink: /introduction/
 ---
 # Tal'Dorei - Exandria, 991 PD
+
+![Introduction](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/abe3a96c-31b3-47b3-a0aa-e238fe56f81f)
 
 Dear Adventurers,
 
@@ -48,6 +50,7 @@ Welcome to Tal'Dorei. Let the adventure begin!
 3. **The Council of Tal'Dorei:** The governing body overseeing much of the continent.
 4. **The Myriad:** A mysterious and influential criminal organization.
 
+![Map_of_Tal'Dorei_Campaign_Setting](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/7179cba4-715f-47ee-a3f2-d68bbcacf5ad)
 
 # Details on cities
 
