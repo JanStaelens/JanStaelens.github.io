@@ -21,9 +21,6 @@ Prepare yourselves for an epic tale of discovery, danger, and destiny.
 
 Welcome to Tal'Dorei. Let the adventure begin!
 
-![DALL·E 2024-01-24 00 35 33 - A digital art image depicting a fantastical world undergoing a cosmic cataclysm  The world is being torn apart by powerful and vibrant forces of gravi_cleanup](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/4c4bd967-1dc3-476e-8285-f2b97d4f6456)
-
-
 ---
 ### Races
 1. **Humans:** Highly adaptable and diverse, found in various regions.
@@ -50,12 +47,6 @@ Welcome to Tal'Dorei. Let the adventure begin!
 2. **The Ashari:** Protectors of the elemental planes, residing in different parts of the world.
 3. **The Council of Tal'Dorei:** The governing body overseeing much of the continent.
 4. **The Myriad:** A mysterious and influential criminal organization.
-
-
-![Map_of_Tal'Dorei_Campaign_Setting](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/9475747f-0401-4dbf-aff7-002b16d16b07)
-
-
-
 
 
 # Details on cities
