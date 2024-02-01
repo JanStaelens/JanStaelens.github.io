@@ -4,6 +4,8 @@ title: Organizations
 permalink: /organizations/
 ---
 
+![DALL·E 2024-02-01 19 59 20 - A stealthy assassin character in a Dungeons and Dragons setting, skulking around a dimly lit medieval alleyway  The assassin is wearing a dark, hooded](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/f567f068-5dfe-4efe-8996-579418512592)
+
 #### The Clasp
 - **Description:** 
   - A notorious thieves' guild spread across Tal’Dorei.
