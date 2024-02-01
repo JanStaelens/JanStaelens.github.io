@@ -8,13 +8,13 @@ permalink: /introduction/
 
 ---
 
-Dear Adventurers,
+## The Adventure
 
-Welcome to Tal'Dorei, a land where with a long history and where mysteries linger in every shadow. The year is 991 Post-Divergence (PD), a time vibrant with the pulse of adventure and the whisper of legends yet to be forged.
+Welcome to Tal'Dorei, a land with a long history and where mysteries linger in every shadow. The year is 991 Post-Divergence (PD), a time vibrant with the pulse of adventure and the whisper of legends yet to be forged.
 
 **Tal'Dorei and Exandria:** Here in Tal'Dorei, a continent rich in both beauty and danger, you'll traverse through lush forests, scale towering mountains, and wander bustling city streets. This land, part of the greater world of Exandria, has seen its share of trials and triumphs. Its resilient people have overcome the shadows of history and now look toward a future filled with potential.
 
-**An Era of Wonders and Perils:** As you embark on your journey, tales of strange events and new discoveries are spreading like wildfire magic, creatures and areas of land behaving in unpredictable ways. Such anomalies are stirring curiosity and concern in equal measure.
+**An Era of Wonders and Perils:** As you embark on your journey, tales of strange events and new discoveries are spreading like wildfire: magic, creatures, and areas of land behaving in unpredictable ways. Such anomalies are stirring curiosity and concern in equal measure.
 
 **The Call of Adventure:** Danger and opportunity lie around every corner. Travelers and traders speak of new threats along the roads, and unknown challenges await those daring to explore the wilds. Your journey will be one of courage, wit, and determination.
 
@@ -23,6 +23,7 @@ As you step into this world, know that your actions will shape its unfolding sto
 Prepare yourselves for an epic tale of discovery, danger, and destiny.
 
 Welcome to Tal'Dorei. Let the adventure begin!
+
 
 ---
 ### Races

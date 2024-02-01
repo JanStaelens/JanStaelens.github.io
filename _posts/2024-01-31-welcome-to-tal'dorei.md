@@ -5,18 +5,18 @@ date:   2024-01-31 21:46:00 +0100
 categories: Lore
 ---
 
-# Tal'Dorei - Exandria, 991 PD
-
 ![Introduction](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/abe3a96c-31b3-47b3-a0aa-e238fe56f81f)
 
 
+## Tal'Dorei - Exandria, 991 PD
+
 Dear Adventurers,
 
-Welcome to Tal'Dorei, a land where with a long history and where mysteries linger in every shadow. The year is 991 Post-Divergence (PD), a time vibrant with the pulse of adventure and the whisper of legends yet to be forged.
+Welcome to Tal'Dorei, a land with a long history and where mysteries linger in every shadow. The year is 991 Post-Divergence (PD), a time vibrant with the pulse of adventure and the whisper of legends yet to be forged.
 
 **Tal'Dorei and Exandria:** Here in Tal'Dorei, a continent rich in both beauty and danger, you'll traverse through lush forests, scale towering mountains, and wander bustling city streets. This land, part of the greater world of Exandria, has seen its share of trials and triumphs. Its resilient people have overcome the shadows of history and now look toward a future filled with potential.
 
-**An Era of Wonders and Perils:** As you embark on your journey, tales of strange events and new discoveries are spreading like wildfire. Magic, creatures and areas of land behaving in unpredictable ways. Such anomalies are stirring curiosity and concern in equal measure.
+**An Era of Wonders and Perils:** As you embark on your journey, tales of strange events and new discoveries are spreading like wildfire: magic, creatures, and areas of land behaving in unpredictable ways. Such anomalies are stirring curiosity and concern in equal measure.
 
 **The Call of Adventure:** Danger and opportunity lie around every corner. Travelers and traders speak of new threats along the roads, and unknown challenges await those daring to explore the wilds. Your journey will be one of courage, wit, and determination.
 
@@ -26,8 +26,6 @@ Prepare yourselves for an epic tale of discovery, danger, and destiny.
 
 Welcome to Tal'Dorei. Let the adventure begin!
 
-
-This information has been made permanent as a post here: [Introduction](/introduction)
 ---
 ### Races
 1. **Humans:** Highly adaptable and diverse, found in various regions.
@@ -55,7 +53,7 @@ This information has been made permanent as a post here: [Introduction](/introdu
 3. **The Council of Tal'Dorei:** The governing body overseeing much of the continent.
 4. **The Myriad:** A mysterious and influential criminal organization.
 
-![Map_of_Tal'Dorei_Campaign_Setting](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/7179cba4-715f-47ee-a3f2-d68bbcacf5ad)
+[![Map_of_Tal'Dorei_Campaign_Setting](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/7179cba4-715f-47ee-a3f2-d68bbcacf5ad)](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/7179cba4-715f-47ee-a3f2-d68bbcacf5ad)
 
 
 # Details on cities

@@ -42,6 +42,20 @@
         margin-left: auto;
         margin-right: auto;
     }
+
+    h2 + p {
+        font-size: 1em; /* Ensure the paragraph has a defined font size */
+        line-height: 3.2em; /* Adjust line height for the paragraph */
+    }
+    
+    h2 + p::first-letter {
+        display: inline-block;
+        font-family: Solberry;
+        font-size: 10em; /* Large size for the first letter */
+        line-height: 1; /* Line height for the first letter */
+        vertical-align: bottom; /* Align the bottom of the letter with the baseline of the text */
+        margin-right: -0.1em;
+    }    
 }
 
 // #banner {
