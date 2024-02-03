@@ -22,7 +22,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Archeart
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/214bcf29-fe93-499a-b9c9-949a4d393824)
+![214bcf29-fe93-499a-b9c9-949a4d393824-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/428fc034-8aaa-4f1b-aaa4-2e29b1bc048d)
+
 
   - **Alignment:** Chaotic Good
   - **Domains:** Light, Arcana
@@ -32,7 +33,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Allhammer
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/3d88478b-f4dd-4698-9774-8e3efcedd7e9)
+![3d88478b-f4dd-4698-9774-8e3efcedd7e9-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/a8ca9937-b862-4bd6-88b3-3c03cc598fb1)
+
 
   - **Alignment:** Lawful Good
   - **Domains:** Knowledge, War
@@ -42,7 +44,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Changebringer
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/da2d732e-ac05-4a17-9db0-20bdaa16eafb)
+![da2d732e-ac05-4a17-9db0-20bdaa16eafb-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/24184e53-a38d-46c1-bf44-a51cd9bd3872)
+
 
   - **Alignment:** Chaotic Good
   - **Domains:** Trickery, Nature
@@ -51,7 +54,9 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
   - **Commandments:** Luck favors the bold, change is inevitable, rise against tyranny.
 
 ### The Dawnfather
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/00c09d25-0511-4eb5-bccf-19a4c310ddc8)
+
+![00c09d25-0511-4eb5-bccf-19a4c310ddc8-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/f345bbc8-9bc6-45e0-8d49-8082ffd801e3)
+
 
   - **Alignment:** Neutral Good
   - **Domains:** Life, Light
@@ -61,7 +66,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Everlight
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/854c8c28-793d-4ace-94c5-5c4b49ebd90d)
+![854c8c28-793d-4ace-94c5-5c4b49ebd90d-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/d3e530bb-2b02-4ad1-ac04-5d49a7a4a5e7)
+
 
   - **Alignment:** Neutral Good
   - **Domains:** Life, Light
@@ -72,7 +78,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Knowing Mistress
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/2ec8f471-818f-4c4a-87c8-ad9b03c2858b)
+![2ec8f471-818f-4c4a-87c8-ad9b03c2858b-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/322d9cc8-c6a4-4587-9b20-b136339d1418)
+
 
   - **Alignment:** Neutral
   - **Domains:** Knowledge, Arcana
@@ -82,7 +89,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Lawbearer
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/c3e6959e-872f-4b05-8406-9415352248e8)
+![c3e6959e-872f-4b05-8406-9415352248e8-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/57be02d3-86da-43be-af85-48da3cfe4a71)
+
 
   - **Alignment:** Lawful Neutral
   - **Domain:** Knowledge
@@ -92,7 +100,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Matron of Ravens
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/9512b69a-265b-41da-a5c8-f058d3cc0231)
+![9512b69a-265b-41da-a5c8-f058d3cc0231-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/a595b2a6-8d89-43fc-ab1f-55696d1c89a2)
+
 
   - **Alignment:** Lawful Neutral
   - **Domains:** Life, Death, Blood
@@ -102,7 +111,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Moonweaver
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/118ba93f-0292-4a27-880c-3004bd39dfd7)
+![118ba93f-0292-4a27-880c-3004bd39dfd7-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/49848d0d-6ffe-497b-9cd1-a1f8bd3ddb75)
+
 
   - **Alignment:** Chaotic Good
   - **Domain:** Trickery
@@ -112,7 +122,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Platinum Dragon
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/c6349f0d-c5d1-4f9a-8baa-4ca726963623)
+![c6349f0d-c5d1-4f9a-8baa-4ca726963623-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/6860406d-c946-4589-9756-d9cc7cb26e68)
+
 
   - **Alignment:** Lawful Good
   - **Domains:** Life, War
@@ -122,7 +133,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Stormlord
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/2c2f47e4-9378-42ba-a711-5c050c8be8b1)
+![2c2f47e4-9378-42ba-a711-5c050c8be8b1-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/0c3c0421-d3ea-4645-a846-40aed35b9a33)
+
 
   - **Alignment:** Chaotic Neutral
   - **Domains:** Tempest, War
@@ -132,7 +144,8 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
 
 ### The Wildmother
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/4cd772a2-5ed3-44d0-8c4b-fc9a53784d6a)
+![4cd772a2-5ed3-44d0-8c4b-fc9a53784d6a-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/2865b02b-8add-4061-8456-6639fb333d87)
+
 
   - **Alignment:** Neutral
   - **Domains:** Nature, Tempest
@@ -151,7 +164,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Chained Oblivion
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/f791710c-6335-46cd-8a5b-d1cb7f0c4c1a)
+![f791710c-6335-46cd-8a5b-d1cb7f0c4c1a-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/4426a353-6acd-4dfa-83f9-2a8284578465)
+
 
 - **Alignment:** Chaotic Evil
 - **Domain:** Death, Trickery
@@ -160,7 +174,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Cloaked Serpent
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/829158d1-ba82-4ad0-94ed-12a525d792d7)
+![829158d1-ba82-4ad0-94ed-12a525d792d7-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/9e432ea3-df15-42fd-915e-03ac85711b8b)
+
 
 - **Alignment:** Chaotic Evil
 - **Domains:** Trickery, Blood
@@ -169,7 +184,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Crawling King
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/45610e80-d4ee-41cb-b5c6-b702e46b66e4)
+![45610e80-d4ee-41cb-b5c6-b702e46b66e4-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/b9bad3c0-c6aa-41ec-950f-c63954137585)
+
 
 - **Alignment:** Neutral Evil
 - **Domains:** Death, Blood
@@ -178,7 +194,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Lord of the Hells
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/c4751de4-3379-4718-a832-be26120532d6)
+![c4751de4-3379-4718-a832-be26120532d6-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/22e40204-6b8e-4384-a367-07ab802a65b4)
+
 
 - **Alignment:** Lawful Evil
 - **Domains:** Trickery, Blood
@@ -187,7 +204,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Ruiner
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/4e82e6d3-dffb-4cf6-8e1e-00b5726ed5d1)
+![4e82e6d3-dffb-4cf6-8e1e-00b5726ed5d1-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/2f4bcc74-3e51-47d9-a186-368fa860bb10)
+
 
 - **Alignment:** Chaotic Evil
 - **Domains:** Tempest, War
@@ -196,7 +214,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Spider Queen
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/27c14f19-d5e5-4569-bdf9-ff4137d3f8a6)
+![27c14f19-d5e5-4569-bdf9-ff4137d3f8a6-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/eee34853-ccbc-4e25-a4ad-530cda47d10c)
+
 
 - **Alignment:** Chaotic Evil
 - **Domains:** Trickery, Knowledge
@@ -205,7 +224,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Strife Emperor
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/49620a8e-f397-4eb7-aec5-d4133d6c3283)
+![49620a8e-f397-4eb7-aec5-d4133d6c3283-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/ffa948a0-ea6a-44d5-8591-6561bebbac8f)
+
 
 - **Alignment:** Lawful Evil
 - **Domain:** War
@@ -214,7 +234,8 @@ They seldom cooperate, viewing each other as threats rather than allies. This di
 
 ### The Scaled Tyrant
 
-![afbeelding](https://github.com/JanStaelens/d-d-The-Fractured-Spheres/assets/40687012/c0185768-6c33-4234-b343-36ecd70c2c30)
+![c0185768-6c33-4234-b343-36ecd70c2c30-removebg-preview](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/242faf77-cfd5-4c95-80d7-daa97e68016f)
+
 
 - **Alignment:** Lawful Evil
 - **Domains:** Trickery, War
