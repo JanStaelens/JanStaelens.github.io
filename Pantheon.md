@@ -12,6 +12,7 @@ Created after the Calamity to prevent gods from directly influencing the mortal 
 
 > "In every whisper of the wind and every flame that dances in the night, the Divine Gate speaks to us. It reminds us that though the gods may reside beyond, their essence permeates our world. So fear not the distance, for in faith, we are ever close." - Elder Caius Marrowroot
 
+---
 
 ## The Prime Deities
 
@@ -153,8 +154,7 @@ Comprising a diverse pantheon, these deities fought alongside their mortal devot
   - **Holy Day:** Wild's Grandeur (Vernal equinox).
   - **Commandments:** Protect the wilderness, slay nature's mockeries, live in harmony with the wild.
 
-
-Here's a summary of the Betrayer Gods from the "Tal'Dorei Campaign Guide":
+---
 
 ## Betrayer Gods
 
