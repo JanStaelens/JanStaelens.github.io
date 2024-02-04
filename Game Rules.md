@@ -132,10 +132,33 @@ Introducing a new mechanic for characters brought down to 0 hitpoints, aimed at 
 
 ### Preparation Points
 
-**Mechanic**: At the start of each session, each player receives a set number of Preparation Points (e.g., 3). Players can spend a Preparation Point to gain a small, one-time bonus during their turn, such as:
+**Mechanic**: At the start of each session, each player receives a set number of Preparation Points (e.g., 3) as physical poker chips from the DM. Players can spend a Preparation Point to gain a small, one-time bonus during their turn, such as:
 - An extra +1 to any roll (attack roll, saving throw, skill check, etc.).
 - A slight increase in movement speed for that turn (e.g., +5 feet).
-- An additional minor action or interaction with the environment.
+- An additional minor action or interaction with the environment (on top of the one free action you already get).
+
+    ***Examples of Minor Actions or Interactions with the Environment***
+
+    1. **Drawing or Sheathing a Weapon**: Quickly drawing a weapon to prepare for an attack, or sheathing one to free a hand.
+
+    2. **Opening or Closing a Door**: Opening a door to rush through or closing it to block an enemy's path.
+
+    3. **Picking Up an Object**: Grabbing an item off the ground or a table, such as a potion, weapon, or key.
+
+    4. **Passing an Item**: Handing an item to a nearby ally, like passing a potion or a piece of equipment.
+
+    5. **Activating a Simple Device**: Pushing a button, pulling a lever, or turning a key that activates a mechanism.
+
+    6. **Flipping a Table or Kicking Dirt**: Creating temporary cover or distracting an enemy by interacting with your surroundings.
+
+    7. **Cutting a Rope or Tether**: Severing a rope that's holding up an object, potentially using the environment to your advantage.
+
+    8. **Extinguishing or Lighting a Torch**: Adjusting light levels by extinguishing or lighting a light source.
+
+    9. **Dropping Prone or Standing Up**: Dropping to the ground for cover or standing up from prone position as a tactical move.
+
+    10. **Signaling an Ally**: Making a hand signal or uttering a codeword to silently communicate with your team.
+
 
 **Condition**: A player can only use a Preparation Point on their turn if they declare their intended action within approximately 15 seconds of their turn starting, at the Dungeon Master's discretion. This flexible time frame encourages players to think about their next move ahead of time, while allowing for slight adjustments based on the DM's judgment and the pace of the game.
 
