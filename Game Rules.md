@@ -139,6 +139,9 @@ Introducing a new mechanic for characters brought down to 0 hitpoints, aimed at 
 
     ***Examples of Minor Actions or Interactions with the Environment***
 
+  ![2024-02-04 13_37_58-Window](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/282b091a-77cd-45ac-b595-c1458afaedd0)
+
+
     1. **Drawing or Sheathing a Weapon**: Quickly drawing a weapon to prepare for an attack, or sheathing one to free a hand.
 
     2. **Opening or Closing a Door**: Opening a door to rush through or closing it to block an enemy's path.
