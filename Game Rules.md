@@ -4,6 +4,8 @@ title: Game Rules
 permalink: /game-rules/
 ---
 
+![DnD_Character_Study_Session](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/01f9bf5d-883d-4d21-b59b-d708ee787199)
+
 ---
 
 # Character Creation
