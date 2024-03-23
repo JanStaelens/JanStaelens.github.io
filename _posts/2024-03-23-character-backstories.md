@@ -21,7 +21,10 @@ As you continue walking, your mind is a whirl of thoughts and memories, piecing 
 
 You can't help but wonder... what's this guy's problem with 'painting supplies' of all things that needs your specific skillset? 
 
-## Sign-off
+![medieval-themed_illustration](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/497ea60b-5771-4d13-b076-b76ea103ccb3)
+
+
+## Persoonlijke noot
 
 Dag vrienden,
 
