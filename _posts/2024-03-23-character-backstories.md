@@ -24,7 +24,7 @@ You can't help but wonder... what's this guy's problem with 'painting supplies' 
 ![medieval-themed_illustration](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/497ea60b-5771-4d13-b076-b76ea103ccb3)
 
 
-## Persoonlijke noot
+# Persoonlijke noot
 
 Dag vrienden,
 
