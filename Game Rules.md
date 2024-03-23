@@ -20,7 +20,7 @@ permalink: /game-rules/
 1. Choose one stat to set at 10.
 2. Distribute 26 points among the remaining stats, adhering to the following guidelines:
     - Each point increases a stat by 1.
-    - No stat can exceed 18.
+    - No stat can exceed 18. (this includes racial bonusses)
     - Points can be distributed freely but must be used to balance the character's abilities.
 
 ### Examples:
