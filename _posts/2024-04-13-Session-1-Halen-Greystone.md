@@ -9,7 +9,9 @@ categories: Lore
 
 ## The invitation by Lord Halen Greystone
 
-The adventure begins with an invitation letter delivered the day before to each character. Lord Greystone is seeking a skilled team of detectives, magic users, and fighters to gather a very dangerous substance known as Hum Dust. His goals are to remove this substance from the streets, where it is being used as a dangerous drug, and to utilize it in creating a new, spectacular pigment for his main business. He is a renowned painter and merchant of pigments and paintings, with many high lords and ladies owning Greystone paintings noted for their vivid colors.
+The adventure begins with an invitation letter delivered the day before to each character.
+
+Lord Greystone is seeking a skilled team of detectives, magic users, and fighters to gather a very dangerous substance known as Hum Dust. His goals are to remove this substance from the streets, where it is being used as a dangerous drug, and to utilize it in creating a new, spectacular pigment for his main business. He is a renowned painter and merchant of pigments and paintings, with many high lords and ladies owning Greystone paintings noted for their vivid colors.
 
 Mila, the assistant to Greystone, has collaborated with her friend Lia, the housekeeper of the manor, to select the right people for the job. They ended up inviting several individuals based on rumors and connections in the city:
 
@@ -70,7 +72,9 @@ The party set out to the locked-down area of the city and arrived exactly when R
 
 ## Nederlandse Samenvatting
 
-Het avontuur begint met een uitnodigingsbrief die gisteren aan elk personage is bezorgd. Heer Greystone zoekt een getalenteerd team van detectives, magiërs en vechters om een gevaarlijke stof genaamd Hum Dust te verwerven. Zijn doel is om deze stof, die momenteel als drug wordt misbruikt, uit de straten te verwijderen en het potentieel ervan te onderzoeken als pigment voor zijn schilder- en handelsbedrijf, bekend om zijn levendige kleuren.
+Het avontuur begint met een uitnodigingsbrief die gisteren aan elk personage is bezorgd.
+
+Heer Greystone zoekt een getalenteerd team van detectives, magiërs en vechters om een gevaarlijke stof genaamd Hum Dust te verwerven. Zijn doel is om deze stof, die momenteel als drug wordt misbruikt, uit de straten te verwijderen en het potentieel ervan te onderzoeken als pigment voor zijn schilder- en handelsbedrijf, bekend om zijn levendige kleuren.
 
 Mila, Greystone's assistente, en Lia, de huishoudster van het landhuis, hebben het team samengesteld op basis van geruchten en connecties in de stad:
 
