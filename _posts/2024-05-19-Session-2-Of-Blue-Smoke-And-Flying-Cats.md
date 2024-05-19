@@ -22,14 +22,11 @@ Abokar handed the woman 5 gold pieces, telling her to go stay at the Muddy Boot 
 
 ### Checking out the Abandoned House
 
-![A_scene_in_a_Dungeons_ _Dragons_5e_style_latest_converted](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/c0bdbc3f-37ee-4181-86b1-1469fb1b2a6e)
-
 The house was filled with large cobwebs, strong enough that they could hold a brick thrown at them. So the group was agitated and on the lookout for spiders that could spin such webs.
 
 When entering the abandoned house that Raffael was living in, Idris noticed in the back a strange blue smoke that he recognized. He mentioned to the group he saw a similar glow after a short and unfortunate trip in the Shadowfell a while back. The glow was present and helped get him home but then disappeared as he stood on the side of a road next to a corpse.
 
 When entering the house fully, Idris lost his footing and fell through the rotted floor into the basement of the house where he discovered that every valuable item that may have once been there was taken. Boxes broken, old barrels empty, ...
-
 
 Viola ran around the house and discovered a back door that was closer to the source of the glow, and she discovered it seemed to emanate like smoke from a cocooned corpse of a man lying against the half-broken wall.
 
@@ -37,6 +34,9 @@ Abokar managed to find the right paths and stronger floor. He ignited his axe an
 
 Ruby had cast Detect Magic and, when closer to the body of the man, discovered the smoke to be magic. When prying deeper into its arcane secrets, she discovered something unseen to her. The magic seemed to mostly be the 'absence' of magic and every magic school, wildly shifting between different schools of magic or even to unknown things.
 
+### There's the spider
+
+![A_scene_in_a_Dungeons_ _Dragons_5e_style_latest_converted](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/c0bdbc3f-37ee-4181-86b1-1469fb1b2a6e)
 
 Nickolas had found some strong larger planks and was helping clear the way from cobwebs when everyone suddenly heard the short scream of pain from both Idris and an unknown monstrous creature from down in the basement.
 
@@ -44,13 +44,14 @@ In a panic, Viola transformed into a bear, ran through the backdoor, and jumped 
 
 Abokar jumped down with his axe on fire, Ruby produced several balls of light illuminating the scene, and Nickolas immediately saved Idris through healing magic. The group was worried though, because despite the bleeding having stopped, Idris was unmoving and his veins were bulging and discolored. Before anything else could happen, a huge monster of a spider 'popped' into existence in the corner of the room and it bit into Abokar's neck, attempting to similarly poison and paralyze him as was done previously to Idris.
 
-
 With a combined effort of the group, the 'phase spider' was defeated, and the group began tending to Idris and discussing visiting the temple for assistance.
-Before that, they needed to finish the investigation, so they tied a safety rope to the leg of the bear and around the torso of Abokar as he bravely stepped into the blue smoke surrounding the body of what was assumed to be Raffael.
 
+### The blue smoke has an effect
+They decided to first finish the investigation, so they tied a safety rope to the leg of the bear and around the torso of Abokar as he bravely stepped into the blue smoke surrounding the body of what was assumed to be Raffael.
 
 There was a loud crack and a quick shift of the blue smoke into Idris, and to everyone's surprise, the limp body of Idris began flying around as if under intelligent control. This shocked Ruby into firing unknown damaging magic towards Idris that caused Idris to quickly fly, still paralyzed, to a corner of the room to stay very still.
 
+### A greasy parchment burned with a snake symbol
 The blue glow and smoke had disappeared, and Abokar was able to retrieve a parchment folded up. When Nickolas investigated, they discovered remnants of Hum Dust, similar to the impure sample shown by Lord Greystone. The parchment was peculiar as it was greasy on the inside and it had the signature burned into it of a coiled serpent.
 
 ### Who Knows?
@@ -59,17 +60,14 @@ The blue glow and smoke had disappeared, and Abokar was able to retrieve a parch
 
 After a brainstorming session between the group, Ruby and Nickolas eventually remembered that there was a shop called the Serpent's Quill that sold all sorts of papers, parchment, and other writing equipment. Before leaving, the group managed to piece together a rough timeline of what had happened and they came to the conclusion the man died first, then the house exploded. It also seems like the blue smoke was slowly reappearing from parts of the body and surroundings that slowly degrade. The party decided to head to the temple to heal Idris when Idris began to slowly fight off the poison on his own. He was soon flying, walking and talking on his own again. At that point, the temple was no longer required, so the group continued discussing their next steps and headed to the Inn when the group noticed a sound and a roof tile suddenly sliding down above them.
 
-
 Expecting they were being spied on, Idris immediately scaled the house to the roof (after discovering he lost the ability to fly), and together with Ruby's flying squirrel, they heard and tried chasing a running person down the streets below but were eventually unable to follow.
-
 
 The group followed the tracks of the running person in the mud all the way to the cobblestone streets that lead deeper into the town. The tracks became impossible to follow at this point. Suspicious of who might have sent someone to follow them, the group decided to head back to the Muddy Boot Inn and further discuss plans there. Suspects were thrown around; Lord Greystone may have sent someone? Perhaps Huxley, the captain of the guards? The servants of Greystone or perhaps the homeless lady had said something? At this point, they met up with Rono Cley, their other companion who waiting at the Muddy Boot Inn for the group and what they had discovered.
 
-
+### A nights rest and wierd dreams
 The group, after discussing things, decided to rest for the night and meet up at the well in front of the casino The Wishing Well the next morning as the sun rises.
 
 Viola invited Idris to relax with a massage at her place and sleep there, in order to help heal from the stress and troubles he received. Abokar retired to his own house, not too far away, while Ruby, Nickolas, and Rono decided to (reluctantly for some) rent rooms at the Muddy Boot Inn from Lisa, the owner of the inn.
-
 
 Idris ended up having strange dreams about flying around, blue smoke, and his hands turning blue and eventually about his parents in the dusty plains of his homeworld explaining how the spirits can be a boon to us but also dangerous. And that he should never forget to ... at that point his dream cut out completely and the rest of his night was blackness.
 
