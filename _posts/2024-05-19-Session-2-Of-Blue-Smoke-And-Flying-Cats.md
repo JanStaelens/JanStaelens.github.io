@@ -64,7 +64,7 @@ Expecting they were being spied on, Idris immediately scaled the house to the ro
 
 The group followed the tracks of the running person in the mud all the way to the cobblestone streets that lead deeper into the town. The tracks became impossible to follow at this point. Suspicious of who might have sent someone to follow them, the group decided to head back to the Muddy Boot Inn and further discuss plans there. Suspects were thrown around; Lord Greystone may have sent someone? Perhaps Huxley, the captain of the guards? The servants of Greystone or perhaps the homeless lady had said something? At this point, they met up with Rono Cley, their other companion who waiting at the Muddy Boot Inn for the group and what they had discovered.
 
-### A nights rest and wierd dreams
+### A nights rest and weird dreams
 The group, after discussing things, decided to rest for the night and meet up at the well in front of the casino The Wishing Well the next morning as the sun rises.
 
 Viola invited Idris to relax with a massage at her place and sleep there, in order to help heal from the stress and troubles he received. Abokar retired to his own house, not too far away, while Ruby, Nickolas, and Rono decided to (reluctantly for some) rent rooms at the Muddy Boot Inn from Lisa, the owner of the inn.
