@@ -5,9 +5,11 @@ date: 2024-05-19 00:00:00 +0100
 categories: Lore
 ---
 
-TODO-IMAGE
 
-### Session 2: The Interrogation of Joyce
+![FlyingCat](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/cd6493bb-f96f-455c-b0d7-d803faa5cc15)
+
+
+### The Interrogation of Joyce
 
 The group, standing in a semi-circle around a homeless woman, began their interrogation in the quarantined area within South-Goldhoard. She said her name was Joyce and that she'd been living in that ruined mansion for a good while now. Greasing the wheels with some money, food, and a decent amount of intimidation, they discovered that another homeless person, a man by the name of Raffael, was squatting in the destroyed house across the street. Raffael used to be a smith until most of the metal from the mining tunnels started drying up. He lost his home and most of his money and has been scraping by and squatting in that abandoned house for a while. She didn't really talk much with him except to perhaps share information to help survive.
 
@@ -18,6 +20,8 @@ It turns out Raffael often had periods of depression followed by better days, an
 Abokar handed the woman 5 gold pieces, telling her to go stay at the Muddy Boot Inn. The woman was shocked at the amount of money and agreed to do so (it was later discovered, she did not actually go to the Inn).
 
 ### Checking out the Abandoned House
+
+![A_scene_in_a_Dungeons_ _Dragons_5e_style_latest_converted](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/c0bdbc3f-37ee-4181-86b1-1469fb1b2a6e)
 
 The house was filled with large cobwebs, strong enough that they could hold a brick thrown at them. So the group was agitated and on the lookout for spiders that could spin such webs.
 
@@ -46,6 +50,8 @@ The blue glow and smoke had disappeared, and Abokar was able to retrieve a parch
 
 ### Who Knows?
 
+![A_close-up_scene_in_a_Dungeons_ _Dragons_5e_style_latest_converted](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/e04f1afe-932d-4d41-931b-45e0ae01ac74)
+
 After a brainstorming session between the group, Ruby and Nickolas eventually remembered that there was a shop called the Serpent's Quill that sold all sorts of papers, parchment, and other writing equipment. Before leaving, the group managed to piece together a rough timeline of what had happened and they came to the conclusion the man died first, then the house exploded. It also seems like the blue smoke was slowly reappearing from parts of the body and surroundings that slowly degrade. The party decided to head to the temple to heal Idris when Idris began to slowly fight off the poison on his own. He was soon flying, walking and talking on his own again. At that point, the temple was no longer required, so the group continued discussing their next steps and headed to the Inn when the group noticed a sound and a roof tile suddenly sliding down above them.
 
 Expecting they were being spied on, Idris immediately scaled the house to the roof (after discovering he lost the ability to fly), and together with Ruby's flying squirrel, they heard and tried chasing a running person down the streets below but were eventually unable to follow.
@@ -59,6 +65,8 @@ Viola invited Idris to relax with a massage at her place and sleep there, in ord
 Idris ended up having strange dreams about flying around, blue smoke, and his hands turning blue and eventually about his parents in the dusty plains of his homeworld explaining how the spirits can be a boon to us but also dangerous. And that he should never forget to ... at that point his dream cut out completely and the rest of his night was blackness.
 
 ### The Serpent's Quill
+
+![A_bustling_medieval_street_with_various_shops_and_latest_converted](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/93d4ca3d-0597-416f-9c7f-1c241f0ef7bb)
 
 In the morning, the group got together at the well, keeping a suspicious eye out for any spies or shady characters following them. Under the guidance of Nickolas and Ruby, who had visited the shop before to purchase parchment, they found and entered the Serpent's Quill. Inside, they were greeted by the owner of the shop, a diminutive gnome, with bright, inquisitive eyes who wore his glasses very deep down on his nose. They caught him, with thread and needle, busy at his workstation, binding a book.
 
