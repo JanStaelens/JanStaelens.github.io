@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Session-1-Halen-Greystone"
+title: "Session 1: Halen Greystone"
 date: 2024-04-13 00:00:00 +0100
 categories: Lore
 ---
