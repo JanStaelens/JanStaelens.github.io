@@ -8,6 +8,7 @@ categories: Lore
 
 ![FlyingCat](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/cd6493bb-f96f-455c-b0d7-d803faa5cc15)
 
+## Of Blue Smoke And Flying Cats
 
 ### The Interrogation of Joyce
 
