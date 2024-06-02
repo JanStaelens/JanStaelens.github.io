@@ -4,6 +4,7 @@ title: "Session 3: Sausages And Exotic Goods"
 date: 2024-06-01 00:00:00 +0100
 categories: Lore
 ---
+![Whimsical_Market_Street_Scene](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/8e37cdaf-69a9-47f3-afae-da9e1f565bef)
 
 ## Sausages And Exotic Goods
 
