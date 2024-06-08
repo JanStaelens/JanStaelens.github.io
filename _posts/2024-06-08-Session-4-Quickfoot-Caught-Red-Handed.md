@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Session 4: Quickfoot Caught Red-Handed"
-date: 2024-06-01 00:00:00 +0100
+date: 2024-06-08 00:00:00 +0100
 categories: Lore
 ---
 
