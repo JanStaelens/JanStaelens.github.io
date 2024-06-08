@@ -5,6 +5,9 @@ date: 2024-06-01 00:00:00 +0100
 categories: Lore
 ---
 
+![LadyRockThrow](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/4d8cc2f3-8f0f-4b09-b637-0888fee1beec)
+
+
 ## Quickfoot Caught Red-Handed
 
 ### Approaching the House
@@ -18,6 +21,8 @@ They found Jasper in the middle of the room, looking flustered and holding a sma
 Abokar called his bluff and rushed forward with his axe. Jasper, panicking, began reading the scroll, which to everyone's shock exploded into blood. Where the blood landed, it pooled together and burst into flames. Out of the fire, two demon Dretches emerged and began attacking.
 
 ### Into the Dark
+
+![Dretch](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/5154f4e5-09dd-4b1f-bfb0-ece335eee9a2)
 
 Idris rushed in through the back door, and Nickolas abandoned the stubborn front door that wouldn't open, opting to climb through a window instead. The Dretches released a foul green smoke that poisoned everyone nearby.
 
@@ -48,6 +53,9 @@ Nickolas cast a Zone of Truth, which caused Jasper to speak only the truth, much
 During the interrogation, they discovered that several months ago, Jasper was approached by someone called The Alchemist in the Shaded Alley. The man looked like a 60-year-old human with short grey hair, no beard, and very sallow, sunken cheeks. Jasper met him only once in person. The Alchemist wanted Jasper to distribute Hum-Dust for him, as it’s very exotic and would sell well. Every two weeks, Jasper goes to a sewer grate under the large stairs near the big crane and mine entrance, where he leaves a bag of 50 silver and an empty greased-up Hum-Dust bag. An hour later, he returns to retrieve the full bag of Hum-Dust and his now-empty bag of silver, which he then sells.
 
 ### Dust, Dust Everywhere Around the City
+
+![HumDustBag](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/212a6d9c-81a1-4c32-82c4-cf75ef0b6f05)
+
 
 Viola also managed to get Jasper to describe all the people and places where he had been selling Hum-Dust, though he didn’t know any of the people's names.
 
