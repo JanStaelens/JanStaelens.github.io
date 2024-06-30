@@ -5,6 +5,9 @@ date: 2024-06-30 00:00:00 +0100
 categories: Lore
 ---
 
+![A_whimsical_medieval_Dungeons_ _Dragons_street,_ab](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/4af8c02d-48b6-439e-9618-b2f5a7de895e)
+
+
 ## One Two Three Feather to Tree
 
 ### Cut the Bullshit, We're Taking You In
@@ -24,6 +27,8 @@ Around this time, Idris asked the fancy bag for "keys" and retrieved a key that 
 This massive tree partially blocked off the street between the group and Abokar and the three shady characters. The shock and distraction caused the shady followers to run past Abokar, complaining they'd lose them and needing to find a different route quickly.
 
 ### Not So Fast, Gentlemen
+
+![medieval_spies_alley](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/62a0df48-e918-494c-aea7-236f2cbccf8e)
 
 Abokar took this opportunity to confront the three men, lighting his axe on fire and intimidating them. In their shock, the central figure mentioned it was too soon for this. Refusing to say anything else, they tried to scatter. However, the group was prepared. Abokar blocked their way back, Idris climbed the tree and watched from above, and Nickolas prepared his magic to stop one in his tracks. One of the men managed to squeeze past Abokar with unexpected acrobatic feats, running down the road toward the busy market and casino central road of Kymal. Another tried to scale the roof, but Nickolas' magic froze him completely, allowing Abokar to bind him under Ruby's watchful eye. The third man scaled the building on the right and ran across the rooftops, but Idris swiftly followed and stabbed him deeply. In shock, he ran away to hide. Idris called upon spirits, holding a skull and whispering foul magic that found the hidden spy and caused him to bleed out and die.
 
@@ -46,6 +51,8 @@ Before they left, Bruni privately told Abokar that something strange was happeni
 Viola, after her business, reached the hand-off location first. She hid behind bushes near a sewer grate built into the mountainside. Later, the rest of the group arrived, with Ruby scouting the area with her flying squirrel. Once clear, they hid in different locations. Idris perched high above, unknowingly close to Viola, who heard him muttering encouragement to himself. Abokar found a sturdy lock on the grate that could be opened from either side.
 
 ### Living Rock
+
+![ominous_scene_with_hatch](https://github.com/JanStaelens/JanStaelens.github.io/assets/40687012/b8a2c911-c725-4f6c-86d4-e1884303baec)
 
 Abokar, Nickolas, and Ruby hid some 60 feet away behind houses while Ruby kept watch on the grate. During their discussion, she noticed the grate unlock and open but saw nothing exit. Viola and Idris missed this due to shadows and wind. Ruby saw the bag disappear and warned the others. Viola saw the grate open again, suspecting someone had left. Ruby sent her squirrel into the grate, but it was killed.
 
