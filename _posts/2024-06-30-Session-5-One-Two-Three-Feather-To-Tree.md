@@ -58,6 +58,6 @@ Abokar, Nickolas, and Ruby hid some 60 feet away behind houses while Ruby kept w
 
 The noise prompted Viola to rush to the grate and face a creature resembling living rock with glowing purple eyes and veins of purple and pink liquid. She swiped the lock, threw it away, and started running away, only to meet Abokar and Ruby sprinting toward the grate. They saw the creature heading deeper into a stairway and dark, wet tunnel.
 
-## The Descent
+### The Descent
 
 The group decided to descend. Ruby, agitated, led the way without caring for stealth. Her pet's death perhaps fueling her desire for revenge. She cast her magic to illuminate the stairway and tunnel, which quickly turned into a natural cave system with glowing mushrooms and stalactites and stalagmites. Despite the rough terrain, Ruby rushed forward, followed closely by Idris. The rest of the group lagged behind as Ruby and Idris arrived at a dimly lit area with rotten wooden walls in front of them. She saw a dark pit with broken planks behind the wood. But more importantly she saw more light from beyond a heavy metal gate attached to the cave walls. She decided to climb the gat. As she climbed, she felt a sensation like a soap bubble bursting and saw two glowing purple eyes blink at her from the stone to her right. Idris arrived just in time to see a massive stone fist attempt to puch Ruby, who was just starting to climb.
