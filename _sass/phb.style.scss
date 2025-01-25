@@ -49,9 +49,9 @@ body {
 	padding-bottom    : 1.5cm;
 	background-color  : $background;
 	background-image  : $backgroundImage;
-	font-family       : BookSanity;
+	font-family       : BookSanity, Arial, sans-serif;;
 	font-size         : 0.317cm;
-	text-rendering    : optimizeLegibility;
+	text-rendering    : auto;
 	page-break-before : always;
 	page-break-after  : always;
 	//*****************************
@@ -409,7 +409,7 @@ body {
 	display             : block-inline;
 	margin-bottom       : 1em;
 	background-color    : #faf7ea;
-	font-family         : ScalySans;
+	font-family         : ScalySans, Helvetica, sans-serif;
 	border-style        : solid;
 	border-width        : 7px;
 	border-image        : $descriptiveBoxImage 12 stretch;
