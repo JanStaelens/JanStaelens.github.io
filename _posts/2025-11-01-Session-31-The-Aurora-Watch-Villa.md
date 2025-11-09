@@ -5,6 +5,8 @@ date: 2025-11-01 19:30:00 +0100
 categories: Lore
 ---
 
+<img width="1024" height="1024" alt="AuroraBarn" src="https://github.com/user-attachments/assets/b01e141e-6ddc-49dd-bae7-6e6690c5aba8" />
+
 ## **Session 31: The Aurora Watch Villa**
 
 ### Investigating the Outside
