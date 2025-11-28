@@ -4,6 +4,7 @@ title: "Session 32: As Above So Below"
 date: 2025-11-22 19:30:00 +0100
 categories: Lore
 ---
+<img width="1024" height="1536" alt="FrostyHole" src="https://github.com/user-attachments/assets/ec5aa3c9-7ede-4e92-be54-4afa1975a159" />
 
 ## **Session 32: As Above So Below**
 
