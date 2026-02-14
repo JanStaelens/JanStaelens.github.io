@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: "Recap: De heldendaden van de avonturiers (tot nu toe)"
-date: 2026-02-14 19:30:00 +0100
+title: "Recap: De heldendaden van de avonturiers"
+date: 2026-02-13 19:30:00 +0100
 categories: Lore
 ---
 
