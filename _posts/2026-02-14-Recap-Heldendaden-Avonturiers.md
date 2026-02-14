@@ -157,5 +157,9 @@ categories: Lore
   - **Explosief vooraan** / suicide-bomb afleiding (chaos, paniek, breach)
   - **Echte cultists** sluipen **langs achter** binnen richting **kelders**
 - Party status:
-  - In gevecht tegen Order (front + basement threat)
----
+- In gevecht tegen Order (front + basement threat)
+
+### Fundamentele Cirkels en hun relatie met magie
+
+<img width="1391" height="913" alt="image" src="https://github.com/user-attachments/assets/0db100a7-9bfb-4094-ba3f-8e2cb830aa6d" />
+
