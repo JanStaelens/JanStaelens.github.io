@@ -5,6 +5,8 @@ date: 2026-02-13 19:30:00 +0100
 categories: Lore
 ---
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/03dd1312-eca0-42c9-9a2f-a6138db464ee" />
+
 ## Keyword Summary up to session 37
 
 ### Kymal / Hum Dust / begin
